@@ -1,0 +1,2 @@
+# newMan
+my study project
